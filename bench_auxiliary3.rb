@@ -10,9 +10,5 @@ def hoge()
 end
  
 ARGV[0].to_i.times do |n|
-
- 
- 
   hoge
-
 end
